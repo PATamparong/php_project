@@ -1,0 +1,90 @@
+.con1{
+    border-radius: 5px;
+}
+.con2{
+    position:relative;
+    border-radius: 5px;
+    background-color: rgb(166, 173, 173);
+    padding:50px 100px;
+    margin-top:100px;
+    width:150px;
+    text-align: left;
+}
+.submit{
+    text-align:center;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 15px;
+    color: white;
+    background: rgb(22, 181, 187);
+    border: none;
+    border-radius: 5px;
+}
+.submit:hover {
+    background-color: #5F9EA0;
+  }
+.card{
+    background-color:rgb(106, 110, 110);
+    padding:50px;
+    margin-top:10px;
+}
+.container1{
+    background-color: rgb(166, 173, 173);
+    padding:100px 100px;
+    width:150px;
+    margin-top:50px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+.container2{
+    background-color:grey;
+    padding:100px 100px;
+    width:150px;
+    margin-top:50px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+
+}
+.container3{
+    background-color: rgb(166, 173, 173);
+    padding:100px 100px;
+    width:150px;
+    margin-top:50px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+
+}
+.navigation{
+    background-color:orange;
+    padding:10px;
+    font-size:20px;
+    padding-left:20px;
+    overflow: hidden;
+}
+.exit:hover {
+    background-color: yellow;
+  }
+.day1:hover {
+    background-color: rgba(47, 47, 151, 0.596);
+}
+.day2:hover {
+    background-color:violet;
+}
+.day3:hover {
+    background-color:aqua;
+}
+.top_name{
+    background-color:rgb(94, 114, 114);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    height:100px;
+    text-align: center;
+    color:white;
+    padding-top:20px;
+}
+.field{
+    font-style: initial;
+}
+body{
+    background-color: rgb(239, 241, 239);
+}
